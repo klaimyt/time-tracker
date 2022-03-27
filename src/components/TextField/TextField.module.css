@@ -1,0 +1,19 @@
+.textField {
+    width: 90%;
+    margin: auto;
+}
+
+.title {
+    display: block;
+}
+
+.inputField {
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+    padding: 5px;
+    border: 2px solid rgb(255, 234, 49);
+    border-radius: 10px;
+    outline: none;
+    box-shadow: none;
+}
